@@ -1,0 +1,10 @@
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\bin\Debug\VenderMachine.exe.config
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\bin\Debug\VenderMachine.exe
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\bin\Debug\VenderMachine.pdb
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\obj\Debug\VenderMachine.csprojAssemblyReference.cache
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\obj\Debug\VenderMachine.Form1.resources
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\obj\Debug\VenderMachine.Properties.Resources.resources
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\obj\Debug\VenderMachine.csproj.GenerateResource.cache
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\obj\Debug\VenderMachine.csproj.CoreCompileInputs.cache
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\obj\Debug\VenderMachine.exe
+C:\Users\Компик\Desktop\Dimas\VenderMachine\VenderMachine\obj\Debug\VenderMachine.pdb
